@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-# about me
+![Dozingfiretruck's GitHub stats](https://github-readme-stats.vercel.app/api?username=meng-plus&theme=github_dark&show_icons=true&count_private=true&hide=stars)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meng-plus&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+# about memeng-plus
   嵌入式开发工程师，喜欢应用新的技术和新的设计思想到单片机平台。
   
   我的宗旨是
