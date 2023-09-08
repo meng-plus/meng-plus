@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Dozingfiretruck's GitHub stats](https://github-readme-stats.vercel.app/api?username=meng-plus&theme=github_dark&show_icons=true&count_private=true&hide=stars)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meng-plus&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![mengplus's GitHub stats](https://github-readme-stats.vercel.app/api?username=meng-plus&theme=github_dark&show_icons=true&count_private=true&hide=stars)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meng-plus&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-# about memeng-plus
+# about me
   嵌入式开发工程师，喜欢应用新的技术和新的设计思想到单片机平台。
   
   我的宗旨是
@@ -29,3 +29,8 @@
 5. 自然还有这里啦[https://mengplus.gitbook.io/](https://mengplus.gitbook.io/)
 6. QQ交流渠道790012859（51群）； 929996346（32群）；113129301（鸿蒙群）；71263861（C语言/C++/VC/MFC程序设计）;740239588(Qt/C++/Linux)
 7. 淘宝店铺:[https://mengplus.taobao.com/](https://mengplus.taobao.com/)
+<!-- BiliBili和Github数据 -->
+<div align="center">
+  <a href="https://space.bilibili.com/152180949/"><img src="https://stats.justsong.cn/api/bilibili/?id=152180949"/></a>
+  <a href="https://github.com/meng-plus"><img src="https://stats.justsong.cn/api/github?username=meng-plus"/></a>
+</div>
