@@ -1,4 +1,10 @@
 ### Hi there 👋
+![GitHub 监控](https://stats.justsong.cn/api/website/?url=https://github.com/&style=flat)
+![Google 监控](https://stats.justsong.cn/api/website/?url=https://www.google.com/&style=flat)
+![Zhihu 监控](https://stats.justsong.cn/api/website/?url=https://www.zhihu.com/&style=flat)
+![gitee 监控](https://stats.justsong.cn/api/website/?url=https://www.gitee.com/&style=flat)
+
+
 [![](https://img.shields.io/badge/C-43853d?style=flat-square&logo=C&logoColor=ffffff)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![](https://img.shields.io/badge/-C++-269539?style=flat-square&logo=c%2B%2B&logoColor=ffffff)](https://www.cplusplus.com/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
