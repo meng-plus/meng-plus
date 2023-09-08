@@ -1,4 +1,11 @@
 ### Hi there 👋
+[![](https://img.shields.io/badge/C-43853d?style=flat-square&logo=C&logoColor=ffffff)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![](https://img.shields.io/badge/-C++-269539?style=flat-square&logo=c%2B%2B&logoColor=ffffff)](https://www.cplusplus.com/)
+[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/Linux-Ubuntu-2376bc?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
+
 
 ![mengplus's GitHub stats](https://github-readme-stats.vercel.app/api?username=meng-plus&theme=github_dark&show_icons=true&count_private=true&hide=stars)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meng-plus&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
